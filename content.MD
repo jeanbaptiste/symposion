@@ -196,10 +196,6 @@ Mandragora officinarum (Mandragore, Gemeine Alraune )
 
 ### Machines
 
-![](/simon_parouty_1.jpg)
-
-![](/simon_parouty_1.jpg)
-
 ## PART 3
 
 Bachelard mix https://soundcloud.com/erugif/bachelaar
