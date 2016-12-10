@@ -2,7 +2,7 @@
 
 ### Atelier 16, Akademie Schloss Solitude, sunday 11th dec 2016, 11am-3pm
 
-## PART 1 ( material thinking / pensée matérielle / material gedanken )
+## PART 1 ( material thinking / pensée matérielle / materieller gedanken )
 
 This intervention is the continuation of another one i initiated at PA-F some month ago in the context of an event entitled Morphogenesis of the Outside.
 
@@ -22,7 +22,7 @@ I used verbs like hacking, blending, agitating, encrypting, intricating, weaving
 
        *
 
-Placed in no particular order or pattern, these words were like dark stars in the low lit atmosphere of the chapel, resonating symbolically to the actual physical light of pixels forming a starfield projected around me. I actually spent some precious preceding weeks coding a entire font lib in LUA composed of these random pixel stars, inspired by the notion of syzygy, one of the intellectual apex of my previous pa-f discussions. This word, which greek origin means yoked together, is often used in reference to the Sun, Earth, and either the Moon or a planet, where the latter is in conjunction or opposition. Solar and lunar eclipses occur at times of syzygy, as do transits and occultations. The term is often applied when the Sun and Moon are in conjunction (new moon) or opposition (full moon).The word syzygy is often loosely used to describe interesting configurations of planets in general. 
+Placed in no particular order or pattern, these words were, with all due respect to Novalis, a kind of brouillon général (eines allgemeine brouillon), they were like dark stars in the low lit atmosphere of the chapel, resonating symbolically to the actual physical light of pixels forming a starfield projected around me. I actually spent some precious preceding weeks coding a entire font lib in LUA composed of these random pixel stars, inspired by the notion of syzygy, one of the intellectual apex of my previous pa-f discussions. This word, which greek origin means yoked together, is often used in reference to the Sun, Earth, and either the Moon or a planet, where the latter is in conjunction or opposition. Solar and lunar eclipses occur at times of syzygy, as do transits and occultations. The term is often applied when the Sun and Moon are in conjunction (new moon) or opposition (full moon).The word syzygy is often loosely used to describe interesting configurations of planets in general. 
 
 https://en.wikipedia.org/wiki/Syzygy_%28astronomy%29
 
@@ -30,9 +30,13 @@ The day after, in the peacock room, i proposed a hands on workshop continuing to
 
 ## PART 2 ( epic / épopée / epos )
 
+L’épopée se rattache originellement à une tradition orale, transmise par des aèdes itinérants, griots, chamans, conteurs, bardes ou troubadours. Elle était certainement dite ou psalmodiée sur une musique monocorde, parfois chantée. D'abord retranscription de fragments récités, parfois à partir de sources différentes, elle devient par la suite un genre littéraire en soi, l’œuvre d’un seul auteur, qui continue cependant souvent à utiliser des procédés hérités de la tradition orale.
+
+
+
 ### People
 
-Human intercessors have many names in many cultures, 
+Human intercessors have many names in many cultures, aoidos (aèdes itinérants, Aöde), griots, chamans (shamans, shammane), conteurs (  ) , bardes (bards) trobadors ( troubadours femmes ) gymnosoph, peripatetician 
 
 #### Milo
 
@@ -62,7 +66,8 @@ Philosophy Between the Lines : The Lost History of Esoteric Writing
 Philosophical esotericism - the practice of communicating one's unorthodox thoughts "between the lines"-was a common practice until the end of the eighteenth century. The famous Encyclopedie of Diderot, for instance, not only discusses this practice in over twenty different articles, but admits to employing it itself. The history of Western thought contains hundreds of such statements by major philosophers testifying to the use of esoteric writing in their own work or that of others. Despite this long and well-documented history, however, esotericism is often dismissed today as a rare occurrence. But by ignoring esotericism, we risk cutting ourselves off from a full understanding of Western philosophical thought. Arthur M. Melzer serves as our deeply knowledgeable guide in this capacious and engaging history of philosophical esotericism. Walking readers through both an ancient (Plato) and a modern (Machiavelli) esoteric work, he explains what esotericism is-and is not. It relies not on secret codes, but simply on a more intensive use of familiar rhetorical techniques like metaphor, irony, and insinuation. Melzer explores the various motives that led thinkers in many different times and places to engage in this strange practice, while also exploring the motives that led more recent thinkers not only to dislike and avoid this practice but to deny its very existence. In the book's final section, "A Beginner's Guide to Esoteric Reading," Melzer turns to how we might once again cultivate the long-forgotten art of reading esoteric works. Philosophy Between the Lines is the first comprehensive, book-length study of the history and theoretical basis of philosophical esotericism, and it provides a crucial guide to how many major writings-philosophical, but also theological, political, and literary-were composed prior to the nineteenth century
 
 #### Grothendieck
-Les portes du cosmos 
+Les portes du cosmos  ( 
+Récoltes et Semailles  (
 cosmomathematics
 
 #### Belatar / Rancière
@@ -79,7 +84,29 @@ TO THE MEMORY OF WALTER BENJAMIN (1892-1940)
 The friend of a lifetime whose genius united the insight of the Metaphysician, the interpretative power of the Critic and the erudition of the Scholar.
 DIED AT PORT BOU (SPAIN) ON HIS WAY INTO FREEDOM
 
-Forêt Juif arbre lieu histoire qui reste
+Baal Shem Tov >>> Samuel Joseph Agnon >>> Gershom Sholem >>> you
+
+• Quand le Baal Shem Tov avait une tâche difficile à accomplir, il se rendait à un certain endroit dans la
+forêt, allumait un feu et se plongeait dans une prière silencieuse. Et ce qu’il avait à accomplir se
+réalisait.
+• Quand, une génération plus tard, le Maggid de Mezeritch se trouva confronté à la même tâche, il se
+rendit à ce même endroit dans la forêt et dit : «Nous ne savons plus allumer le feu, mais nous
+savons encore dire la prière ».
+Et ce qu’il avait à accomplir se réalisa.
+• Une génération plus tard, Rabbi Moshe Leib de Sassov eut à accomplir la même tâche. Lui aussi alla
+dans la forêt et dit : «Nous ne savons plus allumer le feu, nous ne connaissons plus les mystères
+de la prière, mais nous connaissons encore l’endroit précis dans la forêt où cela se passait, et
+cela doit suffire».
+Et ce fut suffisant.
+• Mais quand une autre génération fut passée et que Rabbi Israël de Rishin dut faire face à la même
+tâche, il resta dans sa maison, assis sur son fauteuil, et dit : «Nous ne savons plus allumer le feu,
+nous ne savons plus dire les prières, nous ne connaissons même plus l’endroit dans la forêt,
+mais nous savons encore raconter l’histoire»
+
+- When the baal Shem Tov had a difficult task to accomplish, he was going to a certain place in the forest, lighted up a fire and asked deeply and silently. Then, what he wanted to be accomplished would happen.
+- When, a generation later, the Maggid from Mezeritch was confronted to the same task to accomplish, he went to the same place in the forest and said: " we did not know how to light up the fire, but we still know how to ask". Then what he had to accomplish would happen.
+- Another generation later, Rav Moshe Leib from Sassov had to accomplish the same task. He went as well to the forest and said: " we don't know how to light up the fire, we don't know anymore the mystery of asking, but we still know the precise place in the forest where it used to take place, and it should be enough". And it was enough.
+- But when another last generation had passed, and that Rav Israel from Rishin had to to face the same task, he stayed in his house, sitted in his armchair, and said: " We do not know how to light up the fire, we do not know how anymore how to ask, we don't even know where in the forest, but we still know how to tell the story"
 
 #### Philippe Descola
 Parmi les anthropologues contemporains, Philippe Descola, dans une vision globalisante voire universaliste, a redéfini l'animisme dans un ouvrage remarqué, Par-delà nature et culture (2005). Il se place pour cela dans la situation de l'Homme s'identifiant au monde suivant deux perspectives complémentaires : celle de son « intériorité » et celle de sa « physicalité » vis-à-vis des autres, humains et non humains.
