@@ -91,7 +91,7 @@ Ainsi, pour Descola, l'animisme se caractérise ainsi. a) Ontologie. L'animisme 
 #### Pascal Picq
 Origines de l'humain vision en couleur féminin rouge 
 
-###" Michel Pastoureau 
+#### Michel Pastoureau 
 Couleur rouge 
 Grottes de Lascaux
 
