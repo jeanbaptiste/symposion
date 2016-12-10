@@ -35,7 +35,7 @@ The epic is originally related to oral tradition, transmitted by itinerant, trav
 
 Human intercessors have many names in many cultures, aoidos (aèdes itinérants, Aöde), griots, chamans (shamans, shammane), conteurs ( storyteller,  geschichtenerzähler ) , bards (bardes, Βαρδοί αοιδοι πασα Γαλάταίσ) trobadors & trobairitz ( troubadours   ) gymnosophs, peripatetician, hermits, sadu, walkers & talkers...
 
-
+![](/courbet.jpg) 
 
 #### Milo
 
