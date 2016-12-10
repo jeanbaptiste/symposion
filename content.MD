@@ -35,7 +35,7 @@ The epic is originally related to oral tradition, transmitted by itinerant, trav
 
 Human intercessors have many names in many cultures, aoidos (aèdes itinérants, Aöde), griots, chamans (shamans, shammane), conteurs ( storyteller,  geschichtenerzähler ) , bards (bardes, Βαρδοί αοιδοι πασα Γαλάταίσ) trobadors & trobairitz ( troubadours   ) gymnosophs, peripatetician, hermits, sadu, walkers & talkers...
 
-![](/courbet.jpg) 
+![](/courbet.jpg) ![](/a9ce01494be52ef28924fcba63079e9f.jpg)
 
 #### Milo
 
@@ -63,6 +63,7 @@ Until 11,000 years ago, all people everywhere on Earth were hunter/gatherers, li
 pli de deleuze
 
 #### Arthur M. Melzer
+
 Philosophy Between the Lines : The Lost History of Esoteric Writing
 
 Philosophical esotericism - the practice of communicating one's unorthodox thoughts "between the lines"-was a common practice until the end of the eighteenth century. The famous Encyclopedie of Diderot, for instance, not only discusses this practice in over twenty different articles, but admits to employing it itself. The history of Western thought contains hundreds of such statements by major philosophers testifying to the use of esoteric writing in their own work or that of others. Despite this long and well-documented history, however, esotericism is often dismissed today as a rare occurrence. But by ignoring esotericism, we risk cutting ourselves off from a full understanding of Western philosophical thought. Arthur M. Melzer serves as our deeply knowledgeable guide in this capacious and engaging history of philosophical esotericism. Walking readers through both an ancient (Plato) and a modern (Machiavelli) esoteric work, he explains what esotericism is-and is not. It relies not on secret codes, but simply on a more intensive use of familiar rhetorical techniques like metaphor, irony, and insinuation. Melzer explores the various motives that led thinkers in many different times and places to engage in this strange practice, while also exploring the motives that led more recent thinkers not only to dislike and avoid this practice but to deny its very existence. In the book's final section, "A Beginner's Guide to Esoteric Reading," Melzer turns to how we might once again cultivate the long-forgotten art of reading esoteric works. Philosophy Between the Lines is the first comprehensive, book-length study of the history and theoretical basis of philosophical esotericism, and it provides a crucial guide to how many major writings-philosophical, but also theological, political, and literary-were composed prior to the nineteenth century
@@ -125,53 +126,84 @@ Couleur rouge
 Grottes de Lascaux
 
 #### Roberte Hamayon
-Playing
-Jouer Hamayon
-Chants
-Images
-La chance, le chemin, la trajectoire
 
-Pas de sacrifice dans les sociétés de chasseur car tuer l'animal est le sacrifice dans un système économique du jouer, on gagne ou on perd la vie, de la chance, ou de l'avenir.
+From http://haubooks.org/why-we-play/
 
-Privilège non pas de la classe sociale mais :
-- privilège de la divination
-- privilège divinatoire
-- privilège divin
-- privilège de dire l'avenir
+(book accessible on the internet)
+
+CHRONICLE OF EVIDENCE
+
+“Play” has intrigued me ever since I began working in the field of anthropology. “Games,” Naadam, was the name of the national holiday in Mongolia, the most striking ritual element of this Soviet satellite country that I discovered at the end of the 1960s. How could the “Three Manly Games”—wrestling, archery, horseracing—solemnly “played” from July 11 to July 14 in the capital city, and in a less formal manner elsewhere (districts and municipalities) during the rest of July, further the national cause? Before the advent of the communist regime, these Games were a major political ritual; they became the national holiday during the communist era, and have remained so ever since. Clearly, they were closer to the ancient Greco-Roman Games than to our common conception of play. For the Buryats, neighbor and kin to the Mongols living in the Lake Baikal area in southern Siberia, the “Bride’s Games” were a mandatory introduction to the wedding celebrations, as described in early twentieth-century ethnographic literature, and in the epics bards still used to sing. During the ancient shamanic rituals, the shaman had to make the participants “play” in several ways, and participate himself in various “games,” including the “head-butting game,” where he would mimic the powerful head-butts of the great horned ruminants. Yet the same verb “to play” was used just as well for the bird during his mating dance as for the pianist, the card player, or the actor on stage. The translations invariably and unhesitatingly gave the equivalent “play” (jouer in French, igrat’ in Russian). It soon appeared that highlighting a polysemy here was pointless. Under the name of “Games” that designates the holiday, wrestling stays wrestling, and racing, racing. The other autochthonous peoples of Siberia also organize their collective identity holidays around similar practices, and as such call upon a wide range of the vocabulary relating to “play.” They encourage their children to train for these practices, which are also based on imitation of animal body language, and felt to contain ideal manly values. It would also be pointless to invoke cultural proximity. There are clearly, from one people to another, beyond the terminological diversity, similarities in behavior and associated values. These suggest the underlying presence of a common notion, not necessarily named as such—at least not in homogeneous fashion—but of which “play” seems to be a convenient equivalent.
+
+![](/dsc_6166.jpg)
+
+I first addressed the topic of play in La Chasse à l’âme (Hamayon 1990a)2 without any real intention of constructing an object of research: it was a logical consequence of the analysis of the ritual vocabulary of shamanism. During the pre-Soviet era, the shaman’s body language was intended to mimic animals (two species in particular) in two interdependent behaviors: repelling the rival and attracting the female. These were the two objectives, demanding a double virility on his behalf, both combative and sexual. Back then, I did not know that Freud had singled out aggressiveness and sexuality as the two sources of inspiration for wit—in the form of hostile and obscene wit, respectively—and that he saw in the practice of wit a development of play (Freud). The fact remains that the aggregation of these two manly conducts within the Siberian Games showed their interdependence regarding the function of perpetuating the self. Herein lay the source of their power to represent identity. Since the participants had to wrestle and dance while modeling themselves on the same animal activities, the understanding of the autochthonous verbs for “playing” verbs fitted easily with those for “fighting” and “frolicking,” which also suited animal behavior. But was it possible to further our research by taking literally the verbs signifying “to play” in order to name the ritual act itself?
+
+![](/artefacts.jpg)
+
+I took that leap during a symposium on the subject of ritualization which gathered together anthropologists and ethologists (Hamayon 1995). If some “games” could have properties usually specific to rituals in Siberia, was it the same elsewhere? In many descriptions, “game” featured as a literal translation of an autochthonous term referring to a ritual or a ritual episode, but this fact was then blurred in the analysis. Why was that term so often judged awkward or unimportant in such a context, as if a link between the solemnity of the ritual and the casualness of the game could not or should not exist? As we asked this question, the extent of the main factor underlying this concealment would become apparent: the chronic condemnation, in the Christian Western world, of all that is play and game. Triggered by the fathers of the church and relayed by all the centralizing powers, this condemnation took twelve full centuries to produce its effect. Its history suggests that it was by separating games from one another—and, more precisely, by separating combat games from other types of games—that these powers were able to depreciate the common conception of “play.” “Play” found itself hereby downgraded to something frivolous and futile, insignificant, and suited for children. In the meantime, combat games developed separately under different names: military art, then sports. It appeared, therefore, that the question I used as a title for an article I wrote in 1995, limited to Siberian data—“Why do ‘games’ please the spirits and displease God?”— needed to be asked at a more general level.
+
+![](/The_yard_leading_to_The_White_Sulde_Temple..jpg)
+
+This depreciation of play, common to most centralizing powers, hints at the potential impact of the notion. “Playing,” within the framework of Siberian and Mongolian collective rituals, did indeed imply a homology between humans and the immaterial entities supposed to hold their sources of subsistence which placed them in a partner/opponent relationship (Hamayon 2001a). And it is precisely the egalitarian nature of the playing relation that upsets the hierarchical structure of the centralizing power that crowns society. Furthermore, owing to the latitude required for its fulfillment, play conflicts with the normative trait of a centralizing system. To maintain itself, the latter must exclude all that is imponderable from collective demonstrations. Our analyses confirm that it really was the nature of “play,” and of the acts performed as such, that motivated the church’s hostility, rather than the pagan belief that a ritual “game” could, for instance, make the rain fall. For the church also needed the believer to actually believe. However—and here lies an irony within our mental mechanisms—it is the ability to make the subject “knower and dupe at once,” according to Johan Huizinga’s expression ), that religious belief may have in common with the “entry into the game” (etymology of “illusion”). Whether he plays or whether he believes, by definition, the realm he enters into hereafter differs from empirical reality.
+
+![](/fire.jpg)
+
+Before following this path, I had to widen my search base. This was the goal of a fruitful collective work, the results of which are compiled in Jeux rituels.3 For my part, the analysis of data originating from the Tungusic and Turkic branches of the Altaic family, alongside the data already collected from the Mongolian branch, would enable me to establish the presence of the “play” notion within the ritual vocabulary of the entire area (Hamayon 1999–2000: 11–45). All the Tungusic groups claim that they have to “play” to live, and so that nature can live again. And the Turkic world (including Islamized Central Asia) uses the same root -oy, “play,” all across its vast area, to say: to mimic animals, to dance, to wrestle, to jump, to provoke someone else, to enjoy oneself, or even to carry out a ritual act. However, meaningful historical and contextual variations began to appear. For instance, the Buryat use of “play” slowly shifts, during the twentieth century, from dance to sports. At the same time in Central Asia, ritual “play” often includes both a shamanic armed struggle against the spirits and a Sufi round dance, but without the shaman dancing, and without anyone else but him fighting. While both these gestural behaviors belong to the “play” kind in the ritual context, this does not apply to singing, nor to instrumental music, which become independent in the prevailing Muslim culture. To summarize, in the understanding of ritual “play” in the Altaic world, a certain primacy was granted to gesture at the expense of sound and voice accompaniment. Tracing further, from various perspectives, the reach of this primacy in three more studies (Hamayon 2003, 2006, 2008), I noticed that the gestural component was an essential frame for the “effect” expected of the ritual “play” on the renewing of nature, the success of the hunting season, or the recovery of an ill person.
+
+![](/Бэликто.jpg)
+
+So that play may have such an effect, one must believe in it. A study carried out in the meantime on the notion of belief led me to spontaneously adopt the parallel between the player’s and the believer’s attitude, whether the object of belief is religious or not. In the believer’s commitment, doubt—a core part of the attitude of belief—plays a part similar to indeterminacy in a game, which explains the variations in a player’s commitment. Doubt stretches out in a continuum from a pole of compliance to a pole of detachment. Sliding from one pole to the other, both the believer’s doubt and the player’s variable involvement become, in a way, the driving forces of a speculative movement that pushes them forward. This accounts for how the “entry into the game” (the illusio), on the one hand, and the will to believe, on the other, are linked to an enigmatic and immaterial good called “luck” in some contexts, “grace,” “destiny,” “fortune,” and “happiness” in others, or, in other contexts still, “godsend” and “providence,” for instance. This kind of immaterial good differs from randomness by predicating the existence of an exterior “other” endowed with intentionality.
+
+![](/dsc_6148.jpg)
+
+Finally, these Games seem incompatible with the common understanding of the notion: far from being a gratuitous and free amusement, they had to have a positive “effect” on the state of things to come, which is why participation was mandatory. They aimed for action more than distraction. They were not the result of individual initiatives. They expressed a social obligation and a cultural bias.
+
+Privilege not of a social class but:
+- privilège of divination
+- privilège of propitiation
+- privilège of telling the future
 
 Qui va à sa place perds la chasse !
 
-Jouer / Imaginaire / Supra-naturel ( fabrique du "sacré" non-ritualisé, economie dette-gain)
 
-Greek Alchemy
-Alchemy as metaphor
-
-Maîtres du chaos
-
-Difféomorphisme dedans/dehors
-Dualisme corps matière / esprit abstrait
-
-Nomadism
-Pastoralism
-Domestication
-Matrilinear
-Patrilinear
-A guild agreement
 
 ### Animals
 
 #### Wolf
 
+![](/simon_parouty_1.jpg)
+
+![](/99086_lei_30001667photo1dappel_175004607_4.jpg)
+
+![](/loups-chabrieres.jpg)
+
 ### Plants
+
+Mandragora officinarum (Mandragore, Gemeine Alraune )
+
+![](/Tacuinum_Sanitatis_Mandrake_Dog.jpg)
 
 ### Artefacts
 
+![](/87ab0699e32fce7aa69a8212b89af71c.pdf)
+
+![](/e6fcab2186ecdb476c7e6076b70d3a80a6970dfb.jpg)
+
+![](/CNRSMH_E_1973_009_001_L1_1 - copie.pdf)
+
+![](/5f828560c60f19fe7c7fe339728e0b912.pdf)
+
 ### Machines
+
+![](/simon_parouty_1.jpg)
+
+![](/simon_parouty_1.jpg)
 
 ## PART 3
 
-Bachelard mix 
+Bachelard mix https://soundcloud.com/erugif/bachelaar
 
-traduction allemand
+We all know this middle zone where dreams nurture our thoughts and where our thoughts light up our senses. We are awaken sleepers, lucid dreamers, we live an instant as if the human dimension was getting bigger inside us. We explain to ourselves our own mystery.
 
 
