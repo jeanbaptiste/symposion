@@ -10,7 +10,7 @@ The epic is originally related to oral tradition, transmitted by itinerant, trav
 
 Look how this journeyman illudes into the supra-natural while ^walking^ on a mandragore road ^talking^ to an alchemical trio of two persons & a dog.
 
-![](/courbet.jpg) ![](/a9ce01494be52ef28924fcba63079e9f.jpg){ width: 200px; }
+![](/courbet.jpg) ![](/a9ce01494be52ef28924fcba63079e9f.jpg =250x)
 
 Roberte hamayon, in http://haubooks.org/why-we-play/ (book accessible on the internet) details how Evenk culture (Tungus, Buryat) in Siberia is rich in epic poetry and "playing" practices. During the ancient shamanic rituals, the shaman had to make the participants “play” in several ways, and participate himself in various “games. They still encourage their children to train for these practices, which are also based on imitation of animal body language, and felt to contain ideal manly values. The shaman’s body language was intended to mimic animals (two species in particular) in two interdependent behaviors: repelling the rival and attracting the female. These were the two objectives, demanding a double virility on his behalf, both combative and sexual (she notes that Freud himself saw in the practice of wit a development of play (hostile and obscene wit).
 
