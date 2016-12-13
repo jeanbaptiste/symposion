@@ -37,7 +37,7 @@ The epic poetry is the alive trace of a lived adventure such as hunting / gather
 
 Human intercessors have many names in many cultures, psychopomp (psychopompos), aoidos (aèdes itinérants, Aöde), griots, chamans (shamans, shammane), conteurs ( storyteller,  geschichtenerzähler ) , bards (bardes, Βαρδοί αοιδοι πασα Γαλάταίσ) trobadors & trobairitz ( troubadours   ) gymnosophs, peripatetician, hermits, sadu, walkers & talkers, street performers, magicians, clowns, arlequins (harlekin)...
 
-When on a personal introspective path, the Journeyman inevitabely meet a strange creature/person that signifies that he/she enters a supra-natural 
+When on a personal introspective path, the Journeyman inevitabely meet a strange creature/person that signifies that he/she enters a supra-natural plan.
 
 ![](/courbet.jpg) ![](/a9ce01494be52ef28924fcba63079e9f.jpg)
 
