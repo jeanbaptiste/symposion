@@ -24,9 +24,11 @@ The rich variety of attributes and clothings of shamans are remarkable and a gre
 
 ![](/artefacts.jpg)
 
-![](/The_yard_leading_to_The_White_Sulde_Temple.jpg)
-
 ![](/fire.jpeg)
+
+![](/tengri-forrest.JPG)
+
+![](/e8e10a7f2c0aacf4805021366f21aadf.jpg)
 
 ![](/r2.JPG)
 
@@ -46,10 +48,14 @@ Mandragora officinarum (Mandragore, Gemeine Alraune )
 
 ![](/Tacuinum_Sanitatis_Mandrake_Dog.jpg)
 
-![](/mandrake.jpg)
+![](/NaplesDioscuridesMandrake.jpg)
 
 ### Artefacts
 
 ![](/e6fcab2186ecdb476c7e6076b70d3a80a6970dfb.jpg)
 
-![](/music.jpg)
+![](/music.png)
+
+![](/music2.png)
+
+![](/450ddac649dc85e3ad5692119753cbc8.jpg)
