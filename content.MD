@@ -59,3 +59,6 @@ Mandragora officinarum (Mandragore, Gemeine Alraune )
 ![](/music2.png)
 
 ![](/450ddac649dc85e3ad5692119753cbc8.jpg)
+
+![](/old-shaman-traditional-accessories-belongings-ceremonial-s-28974196.jpg)
+
