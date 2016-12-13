@@ -28,7 +28,7 @@ The rich variety of attributes and clothings of shamans are remarkable and a gre
 
 ![](/fire.jpeg)
 
-![](/tengri-forrest.JPG)
+![](/tengri-forrest.jpeg)
 
 ![](/e8e10a7f2c0aacf4805021366f21aadf.jpg)
 
@@ -38,7 +38,7 @@ The rich variety of attributes and clothings of shamans are remarkable and a gre
 
 ![](/dsc_6425.jpg)
 
-![](/dsc_6415.JPG)
+![](/dsc_6415.jpg)
 
 ![](/dsc_6478.jpg)
 
