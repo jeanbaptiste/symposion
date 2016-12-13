@@ -31,9 +31,13 @@ The day after, in the peacock room, i proposed a hands on workshop continuing to
 ## PART 2 ( epic / épopée / epos )
 The epic is originally related to oral tradition, transmitted by itinerant, travelling people. It was simply told, or performed on a monocord music, sometimes sung. First a retranscription of recitated fragments, often from different sources, it became a genre in itself, the opus of only one author, who is still continuing to use knowledge coming from the oral tradition.
 
+The epic poetry is the alive trace of a lived adventure such as hunting / gathering or like a supra-natural experience involving intercessors, fighting and seducing spirits on our behalf. The epic resonates with spiritual entities playing with us, usually through repeated movement in a limited space (Hamayon). 
+
 ### People
 
-Human intercessors have many names in many cultures, aoidos (aèdes itinérants, Aöde), griots, chamans (shamans, shammane), conteurs ( storyteller,  geschichtenerzähler ) , bards (bardes, Βαρδοί αοιδοι πασα Γαλάταίσ) trobadors & trobairitz ( troubadours   ) gymnosophs, peripatetician, hermits, sadu, walkers & talkers...
+Human intercessors have many names in many cultures, psychopomp (psychopompos), aoidos (aèdes itinérants, Aöde), griots, chamans (shamans, shammane), conteurs ( storyteller,  geschichtenerzähler ) , bards (bardes, Βαρδοί αοιδοι πασα Γαλάταίσ) trobadors & trobairitz ( troubadours   ) gymnosophs, peripatetician, hermits, sadu, walkers & talkers, street performers, magicians, clowns, arlequins (harlekin)...
+
+When on a personal introspective path, the Journeyman inevitabely meet a strange creature/person that signifies that he/she enters a supra-natural 
 
 ![](/courbet.jpg) ![](/a9ce01494be52ef28924fcba63079e9f.jpg)
 
