@@ -38,9 +38,9 @@ The rich variety of attributes and clothings of shamans are remarkable and a gre
 
 ![](/dsc_6425.jpg)
 
-![](/dsc_6425.JPG)
+![](/dsc_6415.JPG)
 
-![](/dsc_6425.jpg)
+![](/dsc_6478.jpg)
 
 ### Animals
 
