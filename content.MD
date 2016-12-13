@@ -20,6 +20,8 @@ Shamans are women and men dressed in colourful silk garments. They have attribut
 
 The rich variety of attributes and clothings of shamans are remarkable and a great source of inspiration.
 
+![](/5f828560c60f19fe7c7fe339728e0b912.jpg)
+
 ![](/dsc_6166.jpg)
 
 ![](/artefacts.jpg)
@@ -33,6 +35,12 @@ The rich variety of attributes and clothings of shamans are remarkable and a gre
 ![](/r2.JPG)
 
 ![](/dsc_6148.jpg)
+
+![](/dsc_6425.jpg)
+
+![](/dsc_6425.JPG)
+
+![](/dsc_6425.jpg)
 
 ### Animals
 
@@ -61,4 +69,6 @@ Mandragora officinarum (Mandragore, Gemeine Alraune )
 ![](/450ddac649dc85e3ad5692119753cbc8.jpg)
 
 ![](/old-shaman-traditional-accessories-belongings-ceremonial-s-28974196.jpg)
+
+![](/87ab0699e32fce7aa69a8212b89af71c.jpg)
 
