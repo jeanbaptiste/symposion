@@ -10,7 +10,7 @@ The epic is originally related to oral tradition, transmitted by itinerant, trav
 
 This journeyman illudes into the supra-natural while walking on a mandragore road, talking to an alchemical triade.
 
-![](/courbet.jpg) ![](/a9ce01494be52ef28924fcba63079e9f.jpg)
+![](courbet.jpg) ![](a9ce01494be52ef28924fcba63079e9f.jpg)
 
 Roberte Hamayon, in http://haubooks.org/why-we-play/ details how Evenk culture (Tungus, Buryat) in Siberia is rich in epic poetry and "playing" practices. During the ancient shamanic rituals, the shaman had to make the participants **play** in several ways, and participate himself in various “games. They still encourage their children to train for these practices, which are also based on imitation of animal body language, and felt to contain ideal manly values. The shaman’s body language was intended to mimic animals (two species in particular) in two interdependent behaviors: repelling the rival and attracting the female. These were the two objectives, demanding a double virility on his behalf, both combative and sexual (she notes that Freud himself saw in the practice of wit a development of play (hostile and obscene wit).
 
@@ -20,54 +20,54 @@ Shamans are women and men dressed in colourful silk garments. They have attribut
 
 The rich variety of attributes and clothings of shamans are remarkable and a great source of inspiration.
 
-![](/5f828560c60f19fe7c7fe339728e0b912.jpg)
+![](5f828560c60f19fe7c7fe339728e0b912.jpg)
 
-![](/dsc_6166.jpg)
+![](dsc_6166.jpg)
 
-![](/artefacts.jpg)
+![](artefacts.jpg)
 
-![](/fire.jpeg)
+![](fire.jpeg)
 
-![](/tengri-forrest.jpeg)
+![](tengri-forrest.jpeg)
 
-![](/e8e10a7f2c0aacf4805021366f21aadf.jpg)
+![](e8e10a7f2c0aacf4805021366f21aadf.jpg)
 
-![](/r2.JPG)
+![](r2.JPG)
 
-![](/dsc_6148.jpg)
+![](dsc_6148.jpg)
 
-![](/dsc_6425.jpg)
+![](dsc_6425.jpg)
 
-![](/dsc_6415.jpg)
+![](dsc_6415.jpg)
 
-![](/dsc_6478.jpg)
+![](dsc_6478.jpg)
 
 ### Animals
 
 #### Wolf
 
-![](/simon_parouty_1.jpg)
+![](simon_parouty_1.jpg)
 
-![](/99086_lei_30001667photo1dappel_175004607_4.jpg)
+![](99086_lei_30001667photo1dappel_175004607_4.jpg)
 
 ### Plants
 
 Mandragora officinarum (Mandragore, Gemeine Alraune )
 
-![](/Tacuinum_Sanitatis_Mandrake_Dog.jpg)
+![](Tacuinum_Sanitatis_Mandrake_Dog.jpg)
 
-![](/NaplesDioscuridesMandrake.jpg)
+![](NaplesDioscuridesMandrake.jpg)
 
 ### Artefacts
 
-![](/e6fcab2186ecdb476c7e6076b70d3a80a6970dfb.jpg)
+![](e6fcab2186ecdb476c7e6076b70d3a80a6970dfb.jpg)
 
-![](/music.png)
+![](music.png)
 
-![](/music2.png)
+![](music2.png)
 
-![](/450ddac649dc85e3ad5692119753cbc8.jpg)
+![](450ddac649dc85e3ad5692119753cbc8.jpg)
 
-![](/old-shaman-traditional-accessories-belongings-ceremonial-s-28974196.jpg)
+![](old-shaman-traditional-accessories-belongings-ceremonial-s-28974196.jpg)
 
-![](/87ab0699e32fce7aa69a8212b89af71c.jpg)
+![](87ab0699e32fce7aa69a8212b89af71c.jpg)
